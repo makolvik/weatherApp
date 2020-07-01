@@ -1,0 +1,23 @@
+.weather-body {
+  text-align: center;
+  /* background-image: url(../img/default2.png); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  padding: 30px;
+}
+.weather-group {
+  max-width: 800px;
+  margin: 0 auto 0 auto;
+}
+.weather-city {
+  font-family: "Krona One", sans-serif;
+  font-size: 100px;
+}
+.weather-temp {
+  font-family: "Krona One", sans-serif;
+  font-size: 50px;
+}
+.weather-group div {
+  margin-top: 30px;
+}
